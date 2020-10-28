@@ -1,0 +1,52 @@
+{
+    "--------------------------------------------------" : "Identité",
+
+    "nom": "Lemon",
+    "licenceImage": "[Auteur et licence](lien)",
+    "hebergement": "[hebergement](lien)",
+
+    "prefixconfig": "/",
+    "token": "NzQxNjQ2NjY5NjY1MjcxODE4.Xy6mSQ.E7r1JQh2mixSvKWQZq8RdQllm-k",
+
+    "-------------------------------------------------" : "Serveur",
+
+    "guild": "lemon",
+    "guildImage": "https://cdn.discordapp.com/attachments/768943254154248283/770292391919353886/20201025_215256-1.gif",
+
+    "invitation": "https://discord.gg/XGKu8Uf",
+    "modchannelid": "768943273451847681",
+    "modchannelbisid": "768943280313335839",
+    "genchannelid": "768943259292139530",
+
+    "------------------------------------------------" : "Services",
+
+    "ynInvitation": 1,
+    "ynRaid": 1,
+    "ynPseudo": 1,
+    "ynStatut": 1,  
+    "ynAide": 1,
+    "ynInfo": 1,
+    "ynPing": 1,
+    "ynClear": 1,
+    "ynStop": 1,
+    "ynConfig": 1,
+    "ynLock": 1,
+    "ynVerif": 1,
+
+    "-----------------------" : "Raid",
+
+    "raidon": 2,
+    "raiddelais": -100,
+    "raiddelaisH": "une minute",
+
+    "------------------------" : "Pseudo",
+
+    "pseudointerdit": ["mot", "interdit"],
+
+    "-------------------------" : "Vérification",
+
+    "idWikiAuthBot" : "id",
+    "verifRole": "769694172638216214",
+    "channelAuth" : "id"
+
+}
